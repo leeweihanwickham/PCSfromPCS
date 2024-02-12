@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "util",
+    "pcs",
+    "basefold",
+    "fri",
+    "gemini-fri",
+    "virgo",
+]
